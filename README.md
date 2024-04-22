@@ -1,3 +1,5 @@
+The above given parameters are only applicable for quad-copter. The changes was made according to our requirements and errors that we faces.
+
 # drones-autonomous-drones![WhatsApp Image 2023-08-25 at 12 11 25 PM](https://github.com/manoj4724/drones-autonomous-drones/assets/65806100/34b63c0d-44ba-440e-aed0-12d058d1c2c3)
 ![WhatsApp Image 2023-08-29 at 10 42 45 PM](https://github.com/manoj4724/drones-autonomous-drones/assets/65806100/a69b095d-7a89-4f66-bd32-2186f1d5debb)
 ![WhatsApp Image 2023-08-25 at 12 18 50 PM (1)](https://github.com/manoj4724/drones-autonomous-drones/assets/65806100/ae4c0914-47aa-4b27-a255-004512e5ccd3)
